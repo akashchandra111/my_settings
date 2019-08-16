@@ -1,0 +1,1 @@
+PS1="${YELLOW}\u${LRED}@${CYAN}\h ${BLUE}\W ${PURPLE}(\T) ${GREEN}[$]${RESTORE}:\n"
